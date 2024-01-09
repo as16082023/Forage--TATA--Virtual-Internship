@@ -1,6 +1,6 @@
 
 
-Forage-Tata Data Visualisation: Empowering Business with Effective Insights 
+**Forage-Tata Data Visualisation: Empowering Business with Effective Insights** 
 
 This is a virtual internship program in which I have used Microsoft Excel for data cleaning, Tableau for data visualization and Microsoft PPT for effectively communicating data insights 
 to answer business related questions.
